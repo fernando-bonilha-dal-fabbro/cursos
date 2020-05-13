@@ -29,7 +29,7 @@ public class Exercicio2 {
        				          "rsv2 string, " +
     				          "rsv3 string)");
 
-			FileReader arqmvtoe = new FileReader("c:/temp/Treinamentos Realizados.txt");
+			FileReader arqmvtoe = new FileReader("c:/temp/Treinamentos Realizados.csv");
 			BufferedReader bloco = new BufferedReader(arqmvtoe);
 
 			String regmvtoe = bloco.readLine();
