@@ -8,6 +8,16 @@ import java.sql.Statement;
 
 public class Exercicio2 {
 
+//teste
+//teste	
+//teste
+//teste	
+	
+	
+	
+	
+	
+	
 	public static void main(String[] args) {
 
 		System.out.println("Programa inicializando...");
