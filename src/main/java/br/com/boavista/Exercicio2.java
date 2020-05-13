@@ -10,7 +10,7 @@ public class Exercicio2 {
 
 	public static void main(String[] args) {
 
-//		System.out.println("Programa inicializando...");
+		System.out.println("Programa inicializando...");
 		Connection con = null;
 		try {
 			
